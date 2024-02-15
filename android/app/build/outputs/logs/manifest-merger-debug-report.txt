@@ -1,0 +1,1101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/fa77294e936c7f5b8dc671112564e692/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/5dc18cd3e14da5592f1950c0df87d315/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-video] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:invertase_react-native-apple-authentication] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:react-native-async-storage_async-storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera-roll_camera-roll] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-camera-roll/camera-roll/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_firestore] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-picker_picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-device-info] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-email-link] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-email-link/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-gesture-handler] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-keyboard-controller] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-keyboard-controller/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-linear-gradient] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pager-view] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-permissions] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-sound-player] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-sound-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/45bc6fc083e3cdd536ac878b186e936b/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/a72ae1567cb42ef30464a5b04cdcc23a/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:hermes-engine:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/df462e170956dedb2cf0860caffc82c1/transformed/jetified-hermes-engine-0.70.6-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] /Users/cheonye/.gradle/caches/transforms-3/9b9171fd513144b07bc3812608577728/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/cheonye/.gradle/caches/transforms-3/76c9ec2d332140bb95214a89c2034b31/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b79fee8239ed47c8796362badf27e681/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/cheonye/.gradle/caches/transforms-3/45e7814eeff1a894900e5a861ad6570e/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-audio-record] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-audio-record/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-reanimated/android/build/.transforms/61239d897393fa6d03eede7466cbbff4/transformed/jetified-react-native-reanimated-70-hermes/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b6e1713991413ae061b5b8938c0210f2/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/dc92721f904082493dd5c3d4ea598c08/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/12851ac2020b54cac2682e842f8c8353/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/d70c8be6992218f461ff77dbfb0e67a6/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/cheonye/.gradle/caches/transforms-3/d731559fb2367560d02ca542b34ae4ca/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/5db23b773d3543ed97715b9669ef4ec4/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/4e887afa821d95a17a23c96516ff9f6b/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/57080c7476b1ee0c6e335d23bf22700e/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b38d12eb59ad0737502255a9d192bdc3/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/f983a13ee1bdb2f3222a264d213d8c40/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/cheonye/.gradle/caches/transforms-3/9a91328a10fb77803d561c48232ba29f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/ecbfe336ec08b6928f1b7fda47eb2e70/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b679f4543198bc7fc38548f56730b106/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/30d55a20d97b05c2a8da297f98c9eb2a/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/5380d8a084ef1987c58776a7f10ae762/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:2:1-25:12
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/cheonye/.gradle/caches/transforms-3/32949a83d63aa28d82e48acf127236e1/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/ceb5696850cfafdfffec350d3cf2a7f8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/cheonye/.gradle/caches/transforms-3/23328dc74ef1b61cc68db9d901c508b3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/5c9e8fc800f8236b2167e7a1d7d91fa1/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/d7383cfd4e8c930e5ec311050ced4410/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/715923d4d986fec26012c5cb2d5b034b/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/cheonye/.gradle/caches/transforms-3/58fcec64d6f4668a282fb6e2ea420fff/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/cheonye/.gradle/caches/transforms-3/ea8182c5aa582459d232328ff1911021/transformed/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/026b09117138df54ed4eb8eba0d52f81/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b6b4613c6e2eababf57e295c1de1e2ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/cheonye/.gradle/caches/transforms-3/7eec19812255919852237756bf06e929/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/397c7761854c591cf47a3073078be1d3/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:15:1-32:12
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/b79fbabc8e8024bed45357bb5d518033/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/cheonye/.gradle/caches/transforms-3/4dc7faa5c103bf224a8a7f5fd6df6db5/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/b297850d13a257ef2e472cb5be8c442a/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/cheonye/.gradle/caches/transforms-3/11359bbfd170d1b46e0eae5f83dc7075/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/1d74ddd0603f50aad451c72f20a33f52/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cheonye/.gradle/caches/transforms-3/b5c097abf76f8f9305c701b4c0abd74c/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/d08ffcd1ac5d3b19cdaba8667494024f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/8b7f451cca42489b546695263f01c16f/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/c56217da04416ee5c0bfeeab13ac14c7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/cheonye/.gradle/caches/transforms-3/2f66606323938faf846fb3839cb3c5ba/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/cheonye/.gradle/caches/transforms-3/2d0d28eb2688379f31511fb247732924/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/cheonye/.gradle/caches/transforms-3/8bce2e3b3c137ab6180e954d60fc6567/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/cheonye/.gradle/caches/transforms-3/44e5d6ca76e1f822ee3ca7ee667ac753/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/b613479e741f85a6a120fa0aa89780e6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/34fdaa07bd45f0ef7028088c199be5f5/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/02102182a2613355c56f9d59dba78e46/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/adda430c65eda5a3333b12211a551b71/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/5cb7e6ba1398bbe148c60608f45fa220/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/ada46eef8b0f31aa14970d3d52814453/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/94be94919a73a0d4972748918d384412/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/f734322305858e88d2cbc629897f2cc6/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/c12ab24011a59f3fd7d45048598ffb0c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/cheonye/.gradle/caches/transforms-3/28e27f512adadb80ff64bc9354dbb138/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/cheonye/.gradle/caches/transforms-3/35c34e94df60f210690bc6b51b446923/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/cheonye/.gradle/caches/transforms-3/49574a707cc8d089a269c063360cc62b/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/0e343ada65b018f9cf77f38adc89bf37/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/8cdc0c836c40cfef67de88b33d9e2bfd/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/899ccf25b989d285a61d691b7dec622b/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/d8fa3eeac66172ff78f3d34da7a9f9b4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/9ee501c8fbab45e68331f4057e4bf074/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cheonye/.gradle/caches/transforms-3/d8145e9bc9ead30cb02eba8576a20410/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/cfa2340140c1d734da0dbdf88181dd4c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/618570e8ab402df545d23ea792209890/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cheonye/.gradle/caches/transforms-3/fdc61d2e6402107c48356fdf6a19edb7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/1a1cf17d869d1a0acc30f929da9f65f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/873c4e82c64fda7cf86fc094a2d44901/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/0678621219edbe681a6f1864b254a6f7/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/fea6ded9aa6e7a11c13635e2f3bc7af6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/2cb64dcfb08b3c30fa4930f74110a8a5/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/cheonye/.gradle/caches/transforms-3/828250916dc5c0c7dce9453aa6ee0152/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/cheonye/.gradle/caches/transforms-3/8b68b9a6bfaa98e671cd204268b7c9f6/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e846ad46b14cbdf299aa18e32721e3af/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/ff311fcd939bf97a41f24fa9f711832f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/f805d5ce6845fc23603cfbc7439d98c8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/7651c80e36256fb0b9f4a1a4dd34ef19/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/cheonye/.gradle/caches/transforms-3/e178dd0abfc77d175536f3c2c7f6933a/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:2:11-49
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:4:3-64
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:4:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:5:3-62
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:5:20-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:6:3-77
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:6:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:7:3-78
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:7:20-76
+uses-feature#android.hardware.camera
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:8:3-82
+	android:required
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:8:56-80
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:8:17-55
+uses-feature#android.hardware.camera.front
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:9:3-88
+	android:required
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:9:62-86
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:9:17-61
+application
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:11:3-47:17
+MERGED from [:react-native-community_datetimepicker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-43:19
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-43:19
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/45bc6fc083e3cdd536ac878b186e936b/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/45bc6fc083e3cdd536ac878b186e936b/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b79fee8239ed47c8796362badf27e681/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b79fee8239ed47c8796362badf27e681/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/cheonye/.gradle/caches/transforms-3/9a91328a10fb77803d561c48232ba29f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/cheonye/.gradle/caches/transforms-3/9a91328a10fb77803d561c48232ba29f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/b297850d13a257ef2e472cb5be8c442a/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/b297850d13a257ef2e472cb5be8c442a/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/cheonye/.gradle/caches/transforms-3/11359bbfd170d1b46e0eae5f83dc7075/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/cheonye/.gradle/caches/transforms-3/11359bbfd170d1b46e0eae5f83dc7075/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cheonye/.gradle/caches/transforms-3/b5c097abf76f8f9305c701b4c0abd74c/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cheonye/.gradle/caches/transforms-3/b5c097abf76f8f9305c701b4c0abd74c/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/d08ffcd1ac5d3b19cdaba8667494024f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/d08ffcd1ac5d3b19cdaba8667494024f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/c56217da04416ee5c0bfeeab13ac14c7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/c56217da04416ee5c0bfeeab13ac14c7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/cheonye/.gradle/caches/transforms-3/2f66606323938faf846fb3839cb3c5ba/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/cheonye/.gradle/caches/transforms-3/2f66606323938faf846fb3839cb3c5ba/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/cheonye/.gradle/caches/transforms-3/2d0d28eb2688379f31511fb247732924/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/cheonye/.gradle/caches/transforms-3/2d0d28eb2688379f31511fb247732924/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/cheonye/.gradle/caches/transforms-3/49574a707cc8d089a269c063360cc62b/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/cheonye/.gradle/caches/transforms-3/49574a707cc8d089a269c063360cc62b/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cheonye/.gradle/caches/transforms-3/d8145e9bc9ead30cb02eba8576a20410/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cheonye/.gradle/caches/transforms-3/d8145e9bc9ead30cb02eba8576a20410/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:18:7-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/cheonye/.gradle/caches/transforms-3/49574a707cc8d089a269c063360cc62b/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:13:7-39
+	android:roundIcon
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:15:7-52
+	android:icon
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:19:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:17:7-42
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:12:7-66
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:21:5-22:57
+	android:value
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:22:16-55
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:21:16-61
+activity#com.ninasoft.vipbillionaires.MainActivity
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:23:5-46:16
+	android:screenOrientation
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:28:9-45
+	android:label
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:25:9-41
+	android:launchMode
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:27:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:29:9-51
+	android:exported
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:30:9-32
+	android:configChanges
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:26:9-118
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:24:9-65
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:vipbbillionaires.page.link+data:host:vipbbillionaires.page.link+data:scheme:http+data:scheme:https
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:31:7-41:23
+action#android.intent.action.VIEW
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:32:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:33:9-67
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:33:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:34:19-67
+data
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:35:9-37:37
+	android:host
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:36:13-54
+	android:scheme
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:37:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:42:7-45:23
+action#android.intent.action.MAIN
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:43:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:44:9-68
+	android:name
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml:44:19-66
+uses-sdk
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/fa77294e936c7f5b8dc671112564e692/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/fa77294e936c7f5b8dc671112564e692/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/5dc18cd3e14da5592f1950c0df87d315/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/5dc18cd3e14da5592f1950c0df87d315/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-video] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:invertase_react-native-apple-authentication] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:invertase_react-native-apple-authentication] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-async-storage_async-storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera-roll_camera-roll] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-camera-roll/camera-roll/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera-roll_camera-roll] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-camera-roll/camera-roll/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_firestore] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_firestore] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/firestore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-picker_picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-create-thumbnail] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-create-thumbnail/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-email-link] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-email-link/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-email-link] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-email-link/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-keyboard-controller] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-keyboard-controller/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-keyboard-controller] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-keyboard-controller/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sound-player] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-sound-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sound-player] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-sound-player/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/45bc6fc083e3cdd536ac878b186e936b/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/45bc6fc083e3cdd536ac878b186e936b/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/a72ae1567cb42ef30464a5b04cdcc23a/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/a72ae1567cb42ef30464a5b04cdcc23a/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.react:hermes-engine:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/df462e170956dedb2cf0860caffc82c1/transformed/jetified-hermes-engine-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-engine:0.70.6] /Users/cheonye/.gradle/caches/transforms-3/df462e170956dedb2cf0860caffc82c1/transformed/jetified-hermes-engine-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] /Users/cheonye/.gradle/caches/transforms-3/9b9171fd513144b07bc3812608577728/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] /Users/cheonye/.gradle/caches/transforms-3/9b9171fd513144b07bc3812608577728/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/cheonye/.gradle/caches/transforms-3/76c9ec2d332140bb95214a89c2034b31/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/cheonye/.gradle/caches/transforms-3/76c9ec2d332140bb95214a89c2034b31/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b79fee8239ed47c8796362badf27e681/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b79fee8239ed47c8796362badf27e681/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/cheonye/.gradle/caches/transforms-3/45e7814eeff1a894900e5a861ad6570e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/cheonye/.gradle/caches/transforms-3/45e7814eeff1a894900e5a861ad6570e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:react-native-audio-record] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-audio-record/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-audio-record] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-audio-record/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-reanimated/android/build/.transforms/61239d897393fa6d03eede7466cbbff4/transformed/jetified-react-native-reanimated-70-hermes/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-reanimated/android/build/.transforms/61239d897393fa6d03eede7466cbbff4/transformed/jetified-react-native-reanimated-70-hermes/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b6e1713991413ae061b5b8938c0210f2/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b6e1713991413ae061b5b8938c0210f2/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/dc92721f904082493dd5c3d4ea598c08/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/dc92721f904082493dd5c3d4ea598c08/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/12851ac2020b54cac2682e842f8c8353/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/12851ac2020b54cac2682e842f8c8353/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/d70c8be6992218f461ff77dbfb0e67a6/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/d70c8be6992218f461ff77dbfb0e67a6/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/cheonye/.gradle/caches/transforms-3/d731559fb2367560d02ca542b34ae4ca/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/cheonye/.gradle/caches/transforms-3/d731559fb2367560d02ca542b34ae4ca/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/5db23b773d3543ed97715b9669ef4ec4/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/5db23b773d3543ed97715b9669ef4ec4/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/4e887afa821d95a17a23c96516ff9f6b/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/4e887afa821d95a17a23c96516ff9f6b/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/57080c7476b1ee0c6e335d23bf22700e/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/57080c7476b1ee0c6e335d23bf22700e/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b38d12eb59ad0737502255a9d192bdc3/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b38d12eb59ad0737502255a9d192bdc3/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/f983a13ee1bdb2f3222a264d213d8c40/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/f983a13ee1bdb2f3222a264d213d8c40/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/cheonye/.gradle/caches/transforms-3/9a91328a10fb77803d561c48232ba29f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/cheonye/.gradle/caches/transforms-3/9a91328a10fb77803d561c48232ba29f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/ecbfe336ec08b6928f1b7fda47eb2e70/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/ecbfe336ec08b6928f1b7fda47eb2e70/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b679f4543198bc7fc38548f56730b106/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/b679f4543198bc7fc38548f56730b106/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/30d55a20d97b05c2a8da297f98c9eb2a/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/30d55a20d97b05c2a8da297f98c9eb2a/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/5380d8a084ef1987c58776a7f10ae762/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/5380d8a084ef1987c58776a7f10ae762/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:6:5-8:41
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/cheonye/.gradle/caches/transforms-3/32949a83d63aa28d82e48acf127236e1/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/cheonye/.gradle/caches/transforms-3/32949a83d63aa28d82e48acf127236e1/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/ceb5696850cfafdfffec350d3cf2a7f8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/ceb5696850cfafdfffec350d3cf2a7f8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/cheonye/.gradle/caches/transforms-3/23328dc74ef1b61cc68db9d901c508b3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/cheonye/.gradle/caches/transforms-3/23328dc74ef1b61cc68db9d901c508b3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/5c9e8fc800f8236b2167e7a1d7d91fa1/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/5c9e8fc800f8236b2167e7a1d7d91fa1/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/d7383cfd4e8c930e5ec311050ced4410/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/d7383cfd4e8c930e5ec311050ced4410/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/715923d4d986fec26012c5cb2d5b034b/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/715923d4d986fec26012c5cb2d5b034b/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/cheonye/.gradle/caches/transforms-3/58fcec64d6f4668a282fb6e2ea420fff/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/cheonye/.gradle/caches/transforms-3/58fcec64d6f4668a282fb6e2ea420fff/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/cheonye/.gradle/caches/transforms-3/ea8182c5aa582459d232328ff1911021/transformed/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/cheonye/.gradle/caches/transforms-3/ea8182c5aa582459d232328ff1911021/transformed/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/026b09117138df54ed4eb8eba0d52f81/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/026b09117138df54ed4eb8eba0d52f81/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b6b4613c6e2eababf57e295c1de1e2ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/b6b4613c6e2eababf57e295c1de1e2ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/cheonye/.gradle/caches/transforms-3/7eec19812255919852237756bf06e929/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/cheonye/.gradle/caches/transforms-3/7eec19812255919852237756bf06e929/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/397c7761854c591cf47a3073078be1d3/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/397c7761854c591cf47a3073078be1d3/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/b79fbabc8e8024bed45357bb5d518033/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/b79fbabc8e8024bed45357bb5d518033/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/cheonye/.gradle/caches/transforms-3/4dc7faa5c103bf224a8a7f5fd6df6db5/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/cheonye/.gradle/caches/transforms-3/4dc7faa5c103bf224a8a7f5fd6df6db5/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/b297850d13a257ef2e472cb5be8c442a/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/b297850d13a257ef2e472cb5be8c442a/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/cheonye/.gradle/caches/transforms-3/11359bbfd170d1b46e0eae5f83dc7075/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/cheonye/.gradle/caches/transforms-3/11359bbfd170d1b46e0eae5f83dc7075/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/1d74ddd0603f50aad451c72f20a33f52/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/1d74ddd0603f50aad451c72f20a33f52/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cheonye/.gradle/caches/transforms-3/b5c097abf76f8f9305c701b4c0abd74c/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cheonye/.gradle/caches/transforms-3/b5c097abf76f8f9305c701b4c0abd74c/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/d08ffcd1ac5d3b19cdaba8667494024f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/d08ffcd1ac5d3b19cdaba8667494024f/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/8b7f451cca42489b546695263f01c16f/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/8b7f451cca42489b546695263f01c16f/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/c56217da04416ee5c0bfeeab13ac14c7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/c56217da04416ee5c0bfeeab13ac14c7/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/cheonye/.gradle/caches/transforms-3/2f66606323938faf846fb3839cb3c5ba/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/cheonye/.gradle/caches/transforms-3/2f66606323938faf846fb3839cb3c5ba/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/cheonye/.gradle/caches/transforms-3/2d0d28eb2688379f31511fb247732924/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/cheonye/.gradle/caches/transforms-3/2d0d28eb2688379f31511fb247732924/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/cheonye/.gradle/caches/transforms-3/8bce2e3b3c137ab6180e954d60fc6567/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/cheonye/.gradle/caches/transforms-3/8bce2e3b3c137ab6180e954d60fc6567/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/cheonye/.gradle/caches/transforms-3/44e5d6ca76e1f822ee3ca7ee667ac753/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/cheonye/.gradle/caches/transforms-3/44e5d6ca76e1f822ee3ca7ee667ac753/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/b613479e741f85a6a120fa0aa89780e6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/b613479e741f85a6a120fa0aa89780e6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/34fdaa07bd45f0ef7028088c199be5f5/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/34fdaa07bd45f0ef7028088c199be5f5/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/02102182a2613355c56f9d59dba78e46/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/02102182a2613355c56f9d59dba78e46/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/adda430c65eda5a3333b12211a551b71/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/adda430c65eda5a3333b12211a551b71/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/5cb7e6ba1398bbe148c60608f45fa220/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/5cb7e6ba1398bbe148c60608f45fa220/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/ada46eef8b0f31aa14970d3d52814453/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/ada46eef8b0f31aa14970d3d52814453/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/94be94919a73a0d4972748918d384412/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/94be94919a73a0d4972748918d384412/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/f734322305858e88d2cbc629897f2cc6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/f734322305858e88d2cbc629897f2cc6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/c12ab24011a59f3fd7d45048598ffb0c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/c12ab24011a59f3fd7d45048598ffb0c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/cheonye/.gradle/caches/transforms-3/28e27f512adadb80ff64bc9354dbb138/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/cheonye/.gradle/caches/transforms-3/28e27f512adadb80ff64bc9354dbb138/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/cheonye/.gradle/caches/transforms-3/35c34e94df60f210690bc6b51b446923/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/cheonye/.gradle/caches/transforms-3/35c34e94df60f210690bc6b51b446923/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/cheonye/.gradle/caches/transforms-3/49574a707cc8d089a269c063360cc62b/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/cheonye/.gradle/caches/transforms-3/49574a707cc8d089a269c063360cc62b/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/0e343ada65b018f9cf77f38adc89bf37/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/0e343ada65b018f9cf77f38adc89bf37/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/8cdc0c836c40cfef67de88b33d9e2bfd/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/8cdc0c836c40cfef67de88b33d9e2bfd/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/899ccf25b989d285a61d691b7dec622b/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/899ccf25b989d285a61d691b7dec622b/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/d8fa3eeac66172ff78f3d34da7a9f9b4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/d8fa3eeac66172ff78f3d34da7a9f9b4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/9ee501c8fbab45e68331f4057e4bf074/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/9ee501c8fbab45e68331f4057e4bf074/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cheonye/.gradle/caches/transforms-3/d8145e9bc9ead30cb02eba8576a20410/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cheonye/.gradle/caches/transforms-3/d8145e9bc9ead30cb02eba8576a20410/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/cfa2340140c1d734da0dbdf88181dd4c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/cfa2340140c1d734da0dbdf88181dd4c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/618570e8ab402df545d23ea792209890/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/618570e8ab402df545d23ea792209890/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cheonye/.gradle/caches/transforms-3/fdc61d2e6402107c48356fdf6a19edb7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cheonye/.gradle/caches/transforms-3/fdc61d2e6402107c48356fdf6a19edb7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/1a1cf17d869d1a0acc30f929da9f65f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cheonye/.gradle/caches/transforms-3/1a1cf17d869d1a0acc30f929da9f65f0/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/873c4e82c64fda7cf86fc094a2d44901/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/873c4e82c64fda7cf86fc094a2d44901/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/0678621219edbe681a6f1864b254a6f7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cheonye/.gradle/caches/transforms-3/0678621219edbe681a6f1864b254a6f7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/fea6ded9aa6e7a11c13635e2f3bc7af6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/fea6ded9aa6e7a11c13635e2f3bc7af6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/2cb64dcfb08b3c30fa4930f74110a8a5/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/2cb64dcfb08b3c30fa4930f74110a8a5/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/cheonye/.gradle/caches/transforms-3/828250916dc5c0c7dce9453aa6ee0152/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/cheonye/.gradle/caches/transforms-3/828250916dc5c0c7dce9453aa6ee0152/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/cheonye/.gradle/caches/transforms-3/8b68b9a6bfaa98e671cd204268b7c9f6/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/cheonye/.gradle/caches/transforms-3/8b68b9a6bfaa98e671cd204268b7c9f6/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e846ad46b14cbdf299aa18e32721e3af/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e846ad46b14cbdf299aa18e32721e3af/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/ff311fcd939bf97a41f24fa9f711832f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/ff311fcd939bf97a41f24fa9f711832f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/f805d5ce6845fc23603cfbc7439d98c8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/cheonye/.gradle/caches/transforms-3/f805d5ce6845fc23603cfbc7439d98c8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/7651c80e36256fb0b9f4a1a4dd34ef19/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/cheonye/.gradle/caches/transforms-3/7651c80e36256fb0b9f4a1a4dd34ef19/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/cheonye/.gradle/caches/transforms-3/e178dd0abfc77d175536f3c2c7f6933a/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/cheonye/.gradle/caches/transforms-3/e178dd0abfc77d175536f3c2c7f6933a/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cheonye/Documents/VIP-Billionaires-RN-New/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/cheonye/.gradle/caches/transforms-3/9a6bfa38a086f493a45e08461b3cbd06/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:12:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/cheonye/.gradle/caches/transforms-3/32949a83d63aa28d82e48acf127236e1/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] /Users/cheonye/.gradle/caches/transforms-3/32949a83d63aa28d82e48acf127236e1/transformed/jetified-grpc-android-1.50.2/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_database] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_dynamic-links] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/dynamic-links/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_storage] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+MERGED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:23:9-29:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+queries
+ADDED from [:react-native-email-link] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-email-link/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:15
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+MERGED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+intent#action:name:android.intent.action.VIEW+data:scheme:mailto
+ADDED from [:react-native-email-link] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-email-link/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:18
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:react-native-audio-record] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-audio-record/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from [:react-native-audio-record] /Users/cheonye/Documents/VIP-Billionaires-RN-New/node_modules/react-native-audio-record/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-68
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.1] /Users/cheonye/.gradle/caches/transforms-3/09c7a79442c4f13577c98fee32f856a2/transformed/jetified-firebase-firestore-24.4.1/AndroidManifest.xml:20:17-111
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/cheonye/.gradle/caches/transforms-3/5d9487f811457f99373d3624cb7a8063/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/cheonye/.gradle/caches/transforms-3/3caee8083ee04932e8c88949abbbcab1/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/cheonye/.gradle/caches/transforms-3/164e0d7a0d05e8cc1922be541c6994ea/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/cheonye/.gradle/caches/transforms-3/27d390dbd2a0780481f56d8cf966b352/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/01408dfb896b60e9729116e1eb81e1e8/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/cheonye/.gradle/caches/transforms-3/b854d935620b771a38fb574c71dc4074/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/cheonye/.gradle/caches/transforms-3/cc075e9b574501304612161ddbc0a8bf/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:33:13-43:29
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/303100db50615a636d998e2f4938ab1f/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:26:13-28:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:28:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:21.1.0] /Users/cheonye/.gradle/caches/transforms-3/28bf73ec41490caf242a2f100e7665a1/transformed/jetified-firebase-dynamic-links-21.1.0/AndroidManifest.xml:27:17-133
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/a107e670b5bc266e3ac57f433d9320c7/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:33:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] /Users/cheonye/.gradle/caches/transforms-3/0a73be55ae758a94408e79f2c7a332f8/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:32:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/cheonye/.gradle/caches/transforms-3/d3ec19c367d6aab65c1f60127993056f/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/cheonye/.gradle/caches/transforms-3/1ba942fb2442060de07441f083917bd7/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/cheonye/.gradle/caches/transforms-3/fc64e7b9088cf5acc9f224701dd40d63/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/cheonye/.gradle/caches/transforms-3/35cd2987f748872d39f98e77109075ce/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/e728b89d18f8444d509248025264c2d6/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/cheonye/.gradle/caches/transforms-3/a8ccd78465277fb0b1cefd4ee983ef49/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/cheonye/.gradle/caches/transforms-3/c6500933d55121e66dfb9ac3fa1159a9/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/cheonye/.gradle/caches/transforms-3/42920eb0a95fd9356d64aa52e53f86ac/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107

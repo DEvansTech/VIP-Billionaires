@@ -1,0 +1,6 @@
+framework module Pods_VipBillionaires {
+  umbrella header "Pods-VipBillionaires-umbrella.h"
+
+  export *
+  module * { export * }
+}

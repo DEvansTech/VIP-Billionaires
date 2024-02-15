@@ -1,0 +1,6 @@
+framework module RNFBDynamicLinks {
+  umbrella header "RNFBDynamicLinks-umbrella.h"
+
+  export *
+  module * { export * }
+}

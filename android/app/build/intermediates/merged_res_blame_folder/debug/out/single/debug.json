@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxxhdpi_logo_text.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxxhdpi/logo_text.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-hdpi_logo_text.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-hdpi/logo_text.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xhdpi_splash_bottom.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xhdpi/splash_bottom.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-mdpi_splash_bottom.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-mdpi/splash_bottom.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xhdpi_logo_text.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xhdpi/logo_text.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-hdpi_splash_bottom.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-hdpi/splash_bottom.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-mdpi_logo.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/drawable_bootsplash.xml.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/drawable/bootsplash.xml"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxxhdpi_splash_bottom.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxxhdpi/splash_bottom.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxhdpi_splash_bottom.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxhdpi/splash_bottom.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-mdpi_logo_text.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-mdpi/logo_text.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-xxhdpi_logo_text.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-xxhdpi/logo_text.png"
+    },
+    {
+        "merged": "com.ninasoft.vipbillionaires.app-merged_res-39:/mipmap-hdpi_logo.png.flat",
+        "source": "com.ninasoft.vipbillionaires.app-main-41:/mipmap-hdpi/logo.png"
+    }
+]

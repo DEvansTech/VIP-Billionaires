@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://vip-billionaires-c07df.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">729621830311</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3LrCugVtddVF2z54cHzkmIcsmkdUiLnE</string>
+    <string name="google_app_id" translatable="false">1:729621830311:android:265ef7b871b0e316fd9982</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3LrCugVtddVF2z54cHzkmIcsmkdUiLnE</string>
+    <string name="google_storage_bucket" translatable="false">vip-billionaires-c07df.appspot.com</string>
+    <string name="project_id" translatable="false">vip-billionaires-c07df</string>
+</resources>

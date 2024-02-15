@@ -1,0 +1,6 @@
+framework module RNSoundPlayer {
+  umbrella header "RNSoundPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

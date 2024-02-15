@@ -1,0 +1,6 @@
+framework module react_native_create_thumbnail {
+  umbrella header "react-native-create-thumbnail-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+current directory: /Users/cheonye/Documents/VIP-Billionaires-RN-New/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/cheonye/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/cheonye/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20231024-44827-aacrxh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/cheonye/Documents/VIP-Billionaires-RN-New/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/cheonye/Documents/VIP-Billionaires-RN-New/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/cheonye/Documents/VIP-Billionaires-RN-New/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install

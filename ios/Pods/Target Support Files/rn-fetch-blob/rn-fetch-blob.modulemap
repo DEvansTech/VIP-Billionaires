@@ -1,0 +1,6 @@
+framework module rn_fetch_blob {
+  umbrella header "rn-fetch-blob-umbrella.h"
+
+  export *
+  module * { export * }
+}
